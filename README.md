@@ -7,7 +7,7 @@
 - [VERSIONING](#versioning)
 
 ## Project Title
-
+---
 ## Describe your project
 
 Description of project with detail and links to discussed points.
@@ -18,7 +18,7 @@ Step by step of the procedure to run the program successfully.
 
 ## Files
 
-Input file tree
+Input *file tree*
 
 ## Documentation
 
